@@ -15,7 +15,6 @@ loadstring(game:HttpGet 'https://raw.githubusercontent.com/LegoPentesters/EyeWar
 ```
 
 ## How to get access
----
 1. Join our Discord,
 2. Ask a developer for a whitelist,
 3. Answer the questions we ask,
